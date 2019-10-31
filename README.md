@@ -4,11 +4,7 @@
 
 ## Preview 
 
-(https://github.com/Arijaime/CosasLindasWeb/img/ko.jpg/?raw=true "Optional Title")
-
-/../<master>/https:/Arijaime/CosasLindasWeb/blob/master/img/ko.jpg?raw=true "Optional Title"
-
-
+![](img/ko.jpg)
 
 
 
