@@ -4,7 +4,7 @@
 
 ## Preview
 
-[![One Page Wonder Preview](https://arijaime.github.io/CosasLindasWeb/r/)
+[![One Page Wonder Preview](https://arijaime.github.io/CosasLindasWeb/)
 
 **[View Live Preview](https://blackrockdigital.github.io/startbootstrap-one-page-wonder/)**
 
