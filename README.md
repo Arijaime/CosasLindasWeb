@@ -1,12 +1,12 @@
-# [Start Bootstrap - One Page Wonder](https://startbootstrap.com/template-overviews/one-page-wonder/)
+# [Start Bootstrap - SP Web Apps For Multi Proposal Sales]
 
-[One Page Wonder](http://startbootstrap.com/template-overviews/one-page-wonder/) is a basic one page template for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/).
+[Cosas lindas Web](https://arijaime.github.io/CosasLindasWeb/) is a basic one page template for [Bootstrap]() created by [Ariel Jaime](https://github.com/Arijaime).
 
 ## Preview
 
 
 
-**[View Live Preview](https://blackrockdigital.github.io/startbootstrap-one-page-wonder/)**
+
 
 ## Status
 
