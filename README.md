@@ -3,7 +3,7 @@
 [Cosas lindas Web](https://arijaime.github.io/CosasLindasWeb/) is a basic one page template for [Bootstrap]() created by [Ariel Jaime](https://github.com/Arijaime).
 
 ## Preview 
-(http://https://imgur.com/a/NzeChY7 "preview")
+(imgur.com/a/NzeChY7 "preview")
 
 
 
